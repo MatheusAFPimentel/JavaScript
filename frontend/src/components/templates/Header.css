@@ -1,0 +1,11 @@
+header.header {
+    background-color: rgba(110, 95, 241, 0.178);
+    padding: 0px 15px;
+    overflow: hidden;
+    white-space: nowrap; /* Quando a tela for minimizada, não estrapolar a letra do HEADER*/
+    box-shadow: var(--shadow);
+}
+
+header.header h1{
+    font-size: 1.8em;
+}
