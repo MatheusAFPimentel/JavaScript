@@ -1,1 +1,1 @@
-# JavaScrip/React
+# JavaScrip
